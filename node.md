@@ -5,8 +5,8 @@
 
 ## dependencies
 * npm i typescript -> npx tsc --init
-* npm i -D @types/node
-* npm i tsx -D
+* npm i @types/node -D
+* npm i tsx 
 * npm i tsup -D
 
 ## run
